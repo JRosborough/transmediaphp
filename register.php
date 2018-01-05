@@ -65,7 +65,7 @@
     <meta name="author" content="">
     <link rel="icon" href="../../../../favicon.ico">
 
-    <title>Starter Template for Bootstrap</title>
+    <title>Register</title>
 
     <!-- Bootstrap core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -109,8 +109,8 @@
     <main role="main" class="container">
 
       <div class="starter-template">
-        <h1> Register 
-</h1>
+        <h1> Register</h1>
+          
         <form action="register.php" method="post"> 
         <label>Username:</label> 
         <input type="text" name="username" value="" /> 
