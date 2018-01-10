@@ -99,8 +99,69 @@
     <main role="main" class="container">
 
       <div class="starter-template">
-        <h1>Home Page</h1>
-        <p class="lead">Log in to access the private content<br> If you do not have an account, register on the register page.</p>
+           <div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-md-10 mx-auto">
+          <div class="post-preview">
+           
+              <h2 class="post-title">
+                An estimated 20 to 40% of UK fruit and vegetables rejected
+              </h2>
+              <h3 class="post-subtitle">
+                 even before they reach the shops – mostly because they do not match the supermarkets’ excessively strict cosmetic standards
+              </h3>
+           
+            <p class="post-meta">Posted by
+              <a href="#">Wise up to waste</a>
+              on November 12, 2017</p>
+          </div>
+          <hr>
+          <div class="post-preview">
+            
+              <h2 class="post-title">
+                1.3 billion tons of food are wasted every year
+              </h2>
+          
+            <p class="post-meta">Posted by
+              <a href="#">Wise up to waste</a>
+              on November 18, 2017</p>
+          </div>
+          <hr>
+          <div class="post-preview">
+           
+              <h2 class="post-title">
+                More than China
+              </h2>
+              <h3 class="post-subtitle">
+                If wasted food was a country, it would be the third largest producer of carbon dioxide in the world, after the United States and China
+              </h3>
+            
+            <p class="post-meta">Posted by
+              <a href="#">Wise up to waste</a>
+              on November 24, 2017</p>
+          </div>
+          <hr>
+          <div class="post-preview">
+            
+              <h2 class="post-title">
+                Food waste in rich countries 
+              </h2>
+              <h3 class="post-subtitle">
+                (222 million tons) is approximately equivalent to all of the food produced in Sub-Saharan Africa (230 million tons)
+              </h3>
+           
+            <p class="post-meta">Posted by
+              <a href="#">Wise up to wise</a>
+              on December 8, 2017</p>
+          </div>
+          <hr>
+          <!-- Pager -->
+          <div class="clearfix">
+            <a class="btn btn-primary float-right" href="#">Older Posts &rarr;</a>
+          </div>
+        </div>
+      </div>
+    </div>
       </div>
 
     </main><!-- /.container -->
