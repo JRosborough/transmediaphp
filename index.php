@@ -73,7 +73,7 @@
             <a class="nav-link" href="#">Link</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link disabled" href="#">Disabled</a>
+            <a class="nav-link" href="#">Disabled</a>
           </li>
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="http://example.com" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Dropdown</a>
@@ -96,14 +96,18 @@
       </div>
     </nav>
 
-    <main role="main" class="container">
+    <!-- Main Content -->
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-md-10 mx-auto">
+          <p>Hello, and welcome to Wise Up To Waste an organisation that helps to spread awareness about excessive food waste produced within the United Kingdom. </p>
+          <p>Did you know that the average UK home throws away at least 6 meals a week? Here in the UK almost 15% of the food and drink we buy in our weekly shop goes in the bin when it could have been consumed! When we donate food to charity or on occasions like Harvest, we often overlook the fact that we waste so much food in our own homes but give battered old tins way. How many times have you walked into your halls kitchen and seen wasted, binned food strewn all over the place? Did you feel disgusted? Or the times you cooked way too much food and put the rest in the bin? </p>
+          <p> Behind us we have a fantastic and helpful team who are always ready to answer any question that you may have. As well that that we have an app which provides more information. 
 
-      <div class="starter-template">
-        
-      </div>
-
-    </main><!-- /.container -->
-
+</p>
+        </div>
+          </div>
+</div>
 
     <!-- Bootstrap core JavaScript
     ================================================== -->
